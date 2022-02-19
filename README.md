@@ -10,3 +10,9 @@ this repository is for accomplishment of tasks of  Oasis Infobyte as a Campus Am
 #task 2
 
 ![1645180449029](https://user-images.githubusercontent.com/98543272/154666535-63528af9-e17b-47c6-8f02-fccd1f0901d5.jpg)
+
+
+#task 3
+
+![image](https://user-images.githubusercontent.com/98543272/154813103-6bcf38af-295e-40e3-83f9-c0c7f460bd40.png)
+
